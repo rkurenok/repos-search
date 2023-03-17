@@ -1,2 +1,2 @@
-# repos-search
+# Search repositories
 Поиск репозиториев по подстроке, используя github api
